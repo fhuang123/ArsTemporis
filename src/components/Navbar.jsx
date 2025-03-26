@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar">
       <h1 className="brand-name">Ars Temporis</h1>
       <div className="nav-links">
-        <Link to="/arstemporis">Home</Link>
+        <Link to="/home">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/preorder">Pre-Order</Link>
       </div>
